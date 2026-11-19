@@ -1,4 +1,3 @@
-
 {
   "name": "osaka-charter-bus",
   "version": "1.0.1",
@@ -8,5 +7,6 @@
     "url": "https://osakacharterbus.com"
   },
   "homepage": "https://osakacharterbus.com/en/",
-  "privacyPolicyUrl": "https://osakacharterbus.com/en/privacy/"
+  "privacyPolicyUrl": "https://osakacharterbus.com/en/privacy/",
+  "icon": ".claude-plugin/icon.png"
 }
