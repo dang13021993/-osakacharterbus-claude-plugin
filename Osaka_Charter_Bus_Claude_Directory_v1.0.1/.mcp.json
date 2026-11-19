@@ -1,0 +1,9 @@
+
+{
+  "mcpServers": {
+    "osaka-charter-bus": {
+      "type": "http",
+      "url": "https://osakacharterbus.com/api/mcp/"
+    }
+  }
+}
