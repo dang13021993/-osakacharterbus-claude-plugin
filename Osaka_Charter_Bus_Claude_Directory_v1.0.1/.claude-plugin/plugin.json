@@ -1,0 +1,11 @@
+
+{
+  "name": "osaka-charter-bus",
+  "version": "1.0.1",
+  "description": "Explore private charter buses, vehicle capacities, reference prices and quotation options in Osaka and Kansai, Japan.",
+  "author": {
+    "name": "MIA Co., Ltd.",
+    "url": "https://osakacharterbus.com"
+  },
+  "homepage": "https://osakacharterbus.com/en/"
+}
